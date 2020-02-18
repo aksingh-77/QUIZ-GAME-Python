@@ -1,0 +1,99 @@
+topic Maths questions :
+
+1] Mr. Smith has two children. If the older child is a boy, what are the odds that the other child is also a boy?
+ (a)60 percent  (b)50 percent (c)40 percent  (d)25 percent
+ ans=b
+
+
+2] If 1/2 of 5 is 3, then what is 1/3 of 10?
+(a)8 (b)5  (c)4 (d)9
+ans=c
+
+3] Does a pound of gold or a pound of feathers weight more?
+(a)depends  (b)Gold  (c)Feathers  (d)Both are same
+ans=d
+
+
+4] What 3 positive numbers give the same result when multiplied and added together?
+(a)8,3,4  (b)3,4,7  (c)1,2,3 (d)6,7,4
+ans=c
+
+
+5] What number do you get when you multiply all of the numbers on a telephone's number pad?
+(a)362880 (b)4234242  (c)232424  (d)0
+ans=0
+
+6] A hobo picks up cigarette butts from the ground and can make a cigarette with 4 butts. If he finds 16 cigarette butts, how many cigarettes can he make?
+(a)5  (b)2 (c)3  (d)8
+ans=a
+
+7] What is the next number in the sequence 1   11   21   1211   111221   312211?
+(a) 13112221  (b) 12334455  (c) 14141455  (d) 63537738
+ans=a
+
+8] There are several books on a bookshelf. If one book is the 4th from the left and 6th from the right, how many books are on the shelf?
+(a)9  (b)25  (c)63  (d)42
+ans=a
+
+9] John has been hired to paint the numbers 1 through 100 on 100 apartments.How many times with he have to paint 8?
+(a)13  (b)99  (c)34  (d)10
+ans=d
+
+
+10] What's the angle between minute hand and hour hand at a quarter past three?
+(a)9.2  (b)6.3  (c)7.5  (d)1.4
+ans=c
+
+11] If you have 30 white socks, 22 black socks, and 14 blue socks scattered across the floor in the dark, how many would you have to grab to get a matching pair?
+(a)45 (b)4  (c)7  (d)2
+ans=b
+
+12]Mr. Smith has 4 daughters. Each of his daughters has a brother.How many children does Mr. Smith have?
+(a)9  (b)2  (c)5  (d)6
+ans=c
+
+13] On a clock, how many times a day do the minute and hour hand overlap?
+(a)23  (b)30  (c)56  (d)22
+ans=d
+
+14] What is 1/2 of 2/3 of 3/4 of 4/5 of 5/6 of 6/7 of 7/8 of 8/9 of 9/10 of 10,000?
+(a)1000  (b)42342  (c)3556636  (d)134444
+ans=a
+
+15] If 1+9+8=1, what is 2+8+9?
+(a)49  (b)1  (c)10  (d)90
+ans=c
+
+16] What is 1004 divided by 2?
+(a)52  (b)502  (c)520  (d)5002
+ans=b
+
+17] Evaluation of( 83 × 82 × 8-5 )*0 is 0000?
+(a)1  (b)0  (c)8  (d)
+ans=b
+
+18]The simplest form of 1.5 : 2.5 is 00000 ?
+(a)6:10  (b)15:25  (c)0.75:1.25  (d)3:5
+ans=a
+
+19]The difference between the smallest number of four digits and the largest number of three digits is 00.? 
+(a)100  (b)1  (c)0  (d)999
+ans=b
+
+20]A number is divisible by 3 if the sum of its digits is divisible by 00.. .?
+(a)1  (b)2  (c)3  (d)5
+ans=c
+
+
+21]Find the sum of 111 + 222 + 333?
+(a)700  (b)666  (c)10  (d)100
+ans=b
+
+
+22]Complete the sequence 13, 16,00, 22?
+(a)17  (b)18  (c)19  (d)10
+ans=a
+
+
+
+
